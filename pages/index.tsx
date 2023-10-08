@@ -12,8 +12,8 @@ const github = "https://github.com/neekoi_";
 const spotify = "https://open.spotify.com/user/31x26y6mbrwjpxkl64skncmykrbu";
 const pinterest = "https://id.pinterest.com/neekoi_";
 const BuyMeACoffee = "https://saweria.co/QyuuGz";
-const discord = "https://discord.com/user/937249509694656513";
-const discordchannel = "https://discord.com/user/937249509694656513";
+const discord = "https://discordapp.com/users/937249509694656513";
+const discordchannel = "https://discordapp.com/users/937249509694656513";
 const discordTag = "Koi#2227";
 
 function myFunction() {
