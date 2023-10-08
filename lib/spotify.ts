@@ -20,7 +20,7 @@ const getAccessToken = async () => {
       "Content-Type": "application/x-www-form-urlencoded",
     },
     body: new URLSearchParams({
-      grant_type: 'client_credentials',
+      grant_type: 'refresh_token',
       refresh_token,
     }),
   });
