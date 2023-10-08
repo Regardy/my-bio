@@ -32,7 +32,7 @@ export const getNowPlaying = async () => {
 
   return fetch(NOW_PLAYING_ENDPOINT, {
     headers: {
-      Authorization: `Bearer ${access_token}`,
+      Authorization: `Bearer BQA3YbPMDwqNTCXudu5O-Z7ioUf9q29N14XLHJd_GGMMXWhSl36bJODhFjLSTAMgb7oph3968URXiwkkkbOoHKrRmEDegzs-eOzzaHa20IvRXg3Q70RVYRCpEKgqL_e7cq97ARgEdMFk5L7rud62c0JhI7BJ-Rqj9hEvq45r_7XtRYYO86kR88afSQA9fC12_nuXuQef8s5HhHB4GTqHKASUBwCLuWoSx_xU120_ae5dh0yjHIzcJ1iCA48W2dlvva6cfOoD_mKHGw8EY3d9LjC0QcM3e39dGWjZMV1cGin5jXm7Bedp0-y9NxuHNcIu5rjRR4ATSL430wr97r_H`,
     },
   });
 };
@@ -42,7 +42,7 @@ export const getTopTracks = async () => {
   const queryParams = new URLSearchParams(TOP_TRACKS_DEFAULT_PARAMS).toString();
   return fetch(TOP_TRACKS_ENDPOINT + "?" + queryParams, {
     headers: {
-      Authorization: `Bearer ${access_token}`,
+      Authorization: `Bearer BQA3YbPMDwqNTCXudu5O-Z7ioUf9q29N14XLHJd_GGMMXWhSl36bJODhFjLSTAMgb7oph3968URXiwkkkbOoHKrRmEDegzs-eOzzaHa20IvRXg3Q70RVYRCpEKgqL_e7cq97ARgEdMFk5L7rud62c0JhI7BJ-Rqj9hEvq45r_7XtRYYO86kR88afSQA9fC12_nuXuQef8s5HhHB4GTqHKASUBwCLuWoSx_xU120_ae5dh0yjHIzcJ1iCA48W2dlvva6cfOoD_mKHGw8EY3d9LjC0QcM3e39dGWjZMV1cGin5jXm7Bedp0-y9NxuHNcIu5rjRR4ATSL430wr97r_H`,
     },
   });
 };
