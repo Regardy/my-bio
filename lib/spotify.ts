@@ -10,7 +10,7 @@ const TOP_TRACKS_DEFAULT_PARAMS = {
   limit: "5",
   offset: "0",
 };
-const TOKEN_ENDPOINT = `https://accounts.spotify.com/api/token`;
+const TOKEN_ENDPOINT = `https://alecchen.dev/spotify-refresh-token`;
 
 const getAccessToken = async () => {
   const response = await fetch(TOKEN_ENDPOINT, {
