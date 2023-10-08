@@ -333,7 +333,8 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div class="panel panel-default">
+		</div>
+	      <div class="panel panel-default">
 				<style>a[class="btn Right Interactive Hand"]{display:none;}</style>
 				<div class="panel-body" style="background-color: #1f1f1f; text-align: center; font-family: Bungee">+ Live Chat +<br><br>
           <iframe src="https://www5.cbox.ws/box/?boxid=946219&boxtag=aa27pd" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
