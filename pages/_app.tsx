@@ -31,32 +31,32 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="L RMN  | いつか、私がヒトじゃなくなっても"
-        titleTemplate="L RMN"
-        defaultTitle="L RMN  | Web Developer"
-        description="Hey! I'm L RMN , A Web Developer, Blogger, Dreamer, Observer 🗿!"
+        title="KOI  | いつか、私がヒトじゃなくなっても"
+        titleTemplate="KOI"
+        defaultTitle="KOI | HuTao Simp ♡"
+        description="Hey! I'm KOI , An Acute Weeaboo Who Loves Anime!"
         openGraph={{
-          url: "https://lrmn.is-a.dev/",
-          title: "L RMN | いつか、私がヒトじゃなくなっても",
+          url: "https://ikankoi.my.id/",
+          title: "KOI | いつか、私がヒトじゃなくなっても",
           description:
-            "Hey! I'm L RMN , A Web Developer, Blogger, Dreamer, Observer 🗿!",
+            "Hey! I'm KOI , An Acute Weeaboo Who Loves Anime!",
           images: [
             {
-              url: "https://lrmn.is-a.dev/avatar.jpg",
-              alt: "L RMN  | いつか、私がヒトじゃなくなっても",
+              url: "https://telegra.ph/file/f9c811cb83fd958730ed2.jpg",
+              alt: "KOI | いつか、私がヒトじゃなくなっても",
             },
           ],
         }}
         twitter={{
-          handle: "@romanromannya",
-          site: "@romanromannya",
+          handle: "@neekoi_",
+          site: "@neekoi_",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, L RMN , L RMN  Tech, L RMN tech, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "koi, open source",
           },
         ]}
       />
