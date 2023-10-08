@@ -2,7 +2,7 @@ const client_id = process.env.SPOTIFY_CLIENT_ID as string;
 const client_secret = process.env.SPOTIFY_CLIENT_SECRET as string;
 const refresh_token = process.env.SPOTIFY_REFRESH_TOKEN as string;
 
-const basic = Buffer.from(`5b76b895a0ce410cbbbb4ad01b7669f5:cc6baca12774436e9478fd94b2eb16c6`).toString("base64");
+const basic = Buffer.from(`${client_id}:${client_secret}`).toString("base64");
 const NOW_PLAYING_ENDPOINT = `https://api.spotify.com/v1/me/player/currently-playing`;
 const TOP_TRACKS_ENDPOINT = `https://api.spotify.com/v1/me/top/tracks`;
 const TOP_TRACKS_DEFAULT_PARAMS = {
@@ -21,7 +21,7 @@ const getAccessToken = async () => {
     },
     body: new URLSearchParams({
       grant_type: 'refresh_token',
-      refresh_token: `AQDZvrCAYfWnlLdn3OPIqN27onCc8XaIAvJmNMT8ChUoEDafBVeIdtfZQ_T3CWmiTys6ugSTK61F-9YlfAbPU2-8aiKhqBYi_CEvbDNfjJTzxulUyZ_vkxTJnV2u71TdCfU`,
+      refresh_token,
     }),
   });
   return response.json();
