@@ -333,9 +333,9 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div class="card" data-state="#about">
-  <div class="card-header">
-    <img class="card-avatar" src="https://telegra.ph/file/f69aff179d8702fe43cd0.jpg" alt="avatar" />
+          <div className="card" data-state="#about">
+  <div className="card-header">
+    <img classNamd="card-avatar" src="https://telegra.ph/file/f69aff179d8702fe43cd0.jpg" alt="avatar" />
       <iframe src="https://www5.cbox.ws/box/?boxid=946219&boxtag=aa27pd" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto" class="komen"></iframe>	
 	     </div>
 			</div>
