@@ -65,6 +65,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       />
       <Head>
         <link rel="icon" type="image/png" href="/pwa-512x512.png" />
+        <audio autoplay="autoplay" hidden="hidden" src="drh.mp3" />
       </Head>
       <Component {...pageProps} />
     </>
