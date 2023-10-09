@@ -300,6 +300,9 @@ export default function Home() {
                                     <span className=""> 🚫 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
+                                    <audio id="player" autoplay loop>
+                                      <source src="drh.mp3" type="audio/mp3">
+                                      </audio>
                                     <span
                                       title="Comment"
                                       className="text-ellipsis text-[16px] text-zinc-400"
