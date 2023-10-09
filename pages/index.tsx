@@ -288,7 +288,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://ikankoi.my.id/comment"
+                            href="https://ikankoi.my.id"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -301,10 +301,10 @@ export default function Home() {
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
-                                      title="Comment"
+                                      title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Comment If You Want
+                                      My favorite song
                                     </span>
                                   </div>
                                 </div>
