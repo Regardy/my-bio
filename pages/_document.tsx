@@ -18,12 +18,20 @@ class MyDocument extends Document {
 
     return initialProps;
   }
-
+  
   render() {
     return (
       <Html lang="en">
         <Head />
         <body onload="pageLoaded()">
+        <script>
+            function pageLoaded() {
+                // Speed up the audio 3x so the test doesn't take 10 seconds.
+                var audio = document.getElementById("audio");
+                audio.loop = true;
+                audio.play();
+            }
+        </script>
         <audio id="audio" src="drh.mp3" />
           <Main />
           <NextScript />
