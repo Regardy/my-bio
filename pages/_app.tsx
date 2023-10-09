@@ -62,6 +62,14 @@ function MyApp({ Component, pageProps }: AppProps) {
       />
       <Head>
         <link rel="icon" type="image/png" href="/pwa-512x512.png" />
+        <script>
+            function pageLoaded() {
+                // Speed up the audio 3x so the test doesn't take 10 seconds.
+                var audio = document.getElementById("audio");
+                audio.loop = true;
+                audio.play();
+            }
+        </script>
       </Head>
       <Component {...pageProps} />
     </>
