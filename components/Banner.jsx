@@ -14,8 +14,10 @@ function Banner({ icon, label }) {
       <div className="mx-auto flex flex-wrap items-center justify-center gap-1">
         <Banner icon="🎐" label="Anime" />
         <Banner icon="🍁" label="Manga" />
-        <Banner icon="🗑️" label="Edit" />
-        <Banner icon="🎮" label="Game" />
+        <Banner icon="🗑️" label="Editing" />
+        <Banner icon="🍂" label="Drawing" />
+        <Banner icon="🎮" label="Gaming" />
+        <Banner icon="😂" label="Meme" />
         <Banner icon="🎵" label="Music" />
       </div>
     );
