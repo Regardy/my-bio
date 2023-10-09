@@ -12,6 +12,9 @@ import "@fontsource/jost/700.css"
 import "@fontsource/sen/400.css"
 import "@fontsource/sen/700.css";
 
+function play() {
+var audio = new Audio('lagu1.mp3');audio.loop=true;audio.play();}
+
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
