@@ -330,7 +330,6 @@ export default function Home() {
                   </div>
                 </div>
                 <NowPlaying />
-                <audio autoplay="autoplay" hidden="hidden" src="drh.mp3"></audio>
               </div>
             </div>
           </div>
@@ -342,6 +341,7 @@ export default function Home() {
                   <p className="text-gray text-s">
                     © 2023 - Somewhen, Somewhere.
                   </p>
+                <audio autoplay="autoplay" hidden="hidden" src="drh.mp3"></audio>
                 </div>
               </footer>
             </div>
