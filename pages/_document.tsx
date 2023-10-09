@@ -24,6 +24,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head />
         <body>
+        <audio id="audio" src="drh.mp3" />
           <Main />
           <NextScript />
         </body>
