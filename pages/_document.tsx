@@ -23,7 +23,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head />
-        <body>
+        <body onload="pageLoaded()">
+        <audio id="audio" src="drh.mp3" />
           <Main />
           <NextScript />
         </body>
