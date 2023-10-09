@@ -304,7 +304,7 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      My favorite song
+                                      Don't Click It !?
                                     </span>
                                   </div>
                                 </div>
