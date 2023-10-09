@@ -45,6 +45,7 @@ export default function Home() {
                     height={100}
                   />
                 </div>
+                <audio autoplay="autoplay" hidden="hidden" src="drh.mp3"></audio>
                 <div className="relative flex flex-row items-center justify-center">
                   <div className="mb-1 flex flex-col">
                     <div className="mt-1 flex flex-row items-center justify-center">
