@@ -6,12 +6,12 @@ const name = "KOI";
 const belowLink = "いつか、私がヒトじゃなくなっても";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const twitter = "https://twitter.com/iamunderox_";
+const twitter = "https://twitter.com/neekoi_";
 const instagram = "https://instagram.com/neekoi_";
 const github = "https://github.com/neekoi_";
 const spotify = "https://open.spotify.com/user/31x26y6mbrwjpxkl64skncmykrbu";
 const pinterest = "https://id.pinterest.com/neekoi_";
-const BuyMeACoffee = "https://saweria.co/QyuuGz";
+const BuyMeACoffee = "https://saweria.co/neekoi_";
 const discord = "https://discordapp.com/users/937249509694656513";
 const discordchannel = "https://discordapp.com/users/937249509694656513";
 const discordTag = "Koi#2227";
