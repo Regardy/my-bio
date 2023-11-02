@@ -87,7 +87,7 @@ export default function Home() {
                     <div className="flex flex-row flex-wrap  items-center justify-center">
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={twitter}
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
@@ -111,7 +111,7 @@ export default function Home() {
                       </a>
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={instagram}
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
@@ -127,7 +127,7 @@ export default function Home() {
                       </a>
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={github}
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
@@ -146,7 +146,7 @@ export default function Home() {
                       </a>
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={spotify}
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
@@ -162,7 +162,7 @@ export default function Home() {
                       </a>
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={pinterest}
                         className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
                       >
@@ -178,7 +178,7 @@ export default function Home() {
                       </a>
                       <a
                         rel="noopener noreferrer nofollow"
-                        target="_blank"
+                        target="_self"
                         href={BuyMeACoffee}
                         className="h-6 fill-current text-primary transition-all dark:text-gray-200"
                       >
@@ -288,7 +288,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://wa.me/6289508082845"
+                            href="https://ikankoi.my.id"
                             target="_self"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
