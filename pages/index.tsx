@@ -297,14 +297,14 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 📞 </span>
+                                    <span className=""> 🕊️ </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Call Me On WhatsApp
+                                      Click To Download Lumine-MD 
                                     </span>
                                   </div>
                                 </div>
