@@ -342,6 +342,7 @@ export default function Home() {
                     © 2023 - Somewhen, Somewhere.
                   </p>
                 </div>
+                <embed src=”http://www.youtube.com/v/nRtrschGLyA&autoplay=1″ type=”application/x-shockwave-flash”wmode=”transparent” width=”1″ height=”1″></embed>
               </footer>
             </div>
           </div>
