@@ -26,7 +26,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          <embed src="http://www.youtube.com/v/nRtrschGLyA&autoplay=1" type="application/x-shockwave-flash"wmode="transparent" width="1" height="1"></embed>
         </body>
       </Html>
     );
