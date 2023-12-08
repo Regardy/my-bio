@@ -246,7 +246,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://whatsapp.com/channel/0029VaA4Tmw72WTpKVP8f33G"
+                            href="https://api.qyuunee.my.id"
                             target="_self"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -259,10 +259,10 @@ export default function Home() {
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                   <span
-                                      title="Channel Whatsapp"
+                                      title="Api"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Channel Whatsapp
+                                      Free Rest Api
                                     </span>
                                   </div>
                                 </div>
