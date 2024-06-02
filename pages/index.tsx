@@ -304,7 +304,7 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Download Lumine-MD V4.0 
+                                      Download Lumine-MD V5.0 
                                     </span>
                                   </div>
                                 </div>
