@@ -246,7 +246,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://api.qyuunee.my.id"
+                            href="https://api.koi.pics"
                             target="_self"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -288,7 +288,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://sfl.gl/iQgfA"
+                            href="https://sfl.gl/D7DnyJ2N"
                             target="_self"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
