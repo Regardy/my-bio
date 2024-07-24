@@ -255,7 +255,7 @@ export default function Home() {
                     </div>
                     <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://whatsapp.com/channel/0029VaA4Tmw72WTpKVP8f33G"
+                            href="https://www.subs4unlock.id/lfYt1W"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -264,14 +264,14 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 📷 </span>
+                                    <span className=""> 🔥 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Saluran WhatsApp
+                                      Download Lumine-MD V6.0
                                     </span>
                                     <span
                                       title=""
