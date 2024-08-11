@@ -216,7 +216,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://sfl.gl/GZoGz3YL"
+                            href="https://whatsapp.com/channel/0029VaA4Tmw72WTpKVP8f33G"
                             target="_self"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -232,7 +232,7 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Download Lumine-MD V5.0 
+                                      Saluran WhatsApp
                                     </span>
                                   </div>
                                 </div>
@@ -277,7 +277,7 @@ export default function Home() {
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Seputar info update & berbagi scrape fitur.
+                                      Ikuti link sampai 3x
                                     </span>
                                   </div>
                                 </div>
