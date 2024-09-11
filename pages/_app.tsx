@@ -31,15 +31,15 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="KOI | HuTao Simp ♡"
-        titleTemplate="KOI"
-        defaultTitle="KOI | HuTao Simp ♡"
-        description="Hey! I'm KOI, Let's Be Friends :3"
+        title="RG | HuTao Simp ♡"
+        titleTemplate="RG"
+        defaultTitle="RG | HuTao Simp ♡"
+        description="Hey! I'm RG, Let's Be Friends :3"
         openGraph={{
-          url: "https://ikankoi.my.id/",
-          title: "KOI | HuTao Simp ♡",
+          url: "https://www.furinaa.my.id/",
+          title: "RG | HuTao Simp ♡",
           description:
-            "Hey! I'm KOI, Let's Be Friends :3",
+            "Hey! I'm RG, Let's Be Friends :3",
           images: [
             {
               url: "https://telegra.ph/file/fb8741aabb9d25e2fcdb4.jpg",
@@ -48,15 +48,15 @@ function MyApp({ Component, pageProps }: AppProps) {
           ],
         }}
         twitter={{
-          handle: "@neekoi_",
-          site: "@neekoi_",
+          handle: "@",
+          site: "@",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "koi, open source",
+              "RG,",
           },
         ]}
       />
