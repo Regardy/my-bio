@@ -2,19 +2,19 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "KOI";
+const name = "RG";
 const belowLink = "いつか、私がヒトじゃなくなっても";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const twitter = "https://twitter.com/neekoi_";
-const instagram = "https://instagram.com/neekoi_";
-const github = "https://github.com/neekoi_";
+const twitter = "https://twitter.com/";
+const instagram = "https://instagram.com/rgbruhh";
+const github = "https://github.com/RegaBruhh";
 const spotify = "https://open.spotify.com/user/31x26y6mbrwjpxkl64skncmykrbu";
-const pinterest = "https://id.pinterest.com/neekoi_";
-const BuyMeACoffee = "https://saweria.co/neekoi_";
+const pinterest = "https://id.pinterest.com/";
+const BuyMeACoffee = "https://saweria.co/";
 const discord = "https://discordapp.com/users/937249509694656513";
 const discordchannel = "https://discordapp.com/users/937249509694656513";
-const discordTag = "Koi#2227";
+const discordTag = "regabruhh";
 
 function myFunction() {
   var x = document.getElementById("snackbar");
