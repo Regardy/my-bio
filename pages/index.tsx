@@ -6,7 +6,7 @@ const name = "RG";
 const belowLink = "APALAH";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const twitter = "https://twitter.com/";
+
 const instagram = "https://instagram.com/rgbruhh";
 const github = "https://github.com/RegaBruhh";
 const spotify = "https://open.spotify.com/user/31x26y6mbrwjpxkl64skncmykrbu";
