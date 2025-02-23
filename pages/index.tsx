@@ -28,8 +28,7 @@ function myFunction() {
 
 export default function Home() {
   return (
-    <div>
-      <div className="flex flex-col">
+    <div className="flex flex-col">
         <div className="flex min-h-screen flex-col bg-primary">
           <div
             style={{ backgroundSize: "cover", backgroundPosition: "center" }}
