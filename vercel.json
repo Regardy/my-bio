@@ -2,11 +2,11 @@
   "version": 2,
   "routes": [
     {
-      "src": "/webhook",
+      "src": "/api/webhook",
       "dest": "/api/webhook"
     },
     {
-      "src": "/donations",
+      "src": "/api/donations",
       "dest": "/api/donations"
     }
   ]
