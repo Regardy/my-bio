@@ -1,6 +1,6 @@
 {
   "version": 2,
-"builds": [
+  "builds": [
     {
       "src": "pages/api/*.js",
       "use": "@vercel/node"
@@ -9,11 +9,11 @@
   "routes": [
     {
       "src": "/webhook",
-      "dest": "/api/webhook"
+      "dest": "/pages/api/webhook.js"
     },
     {
       "src": "/donations",
-      "dest": "/api/donations"
+      "dest": "/pages/api/donations.js"
     }
   ]
 }
