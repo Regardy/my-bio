@@ -1,3 +1,4 @@
+import React from "react";
 import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
