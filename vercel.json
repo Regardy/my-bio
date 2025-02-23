@@ -2,18 +2,18 @@
   "version": 2,
   "builds": [
     {
-      "src": "pages/api/*.js",
-      "use": "@vercel/node"
+      "src": "package.json",
+      "use": "@vercel/next"
     }
   ],
   "routes": [
     {
-      "src": "/webhook",
-      "dest": "/pages/api/webhook.js"
+      "src": "/api/webhook",
+      "dest": "/api/webhook.js"
     },
     {
-      "src": "/donations",
-      "dest": "/pages/api/donations.js"
+      "src": "/api/donations",
+      "dest": "/api/donations.js"
     }
   ]
 }
